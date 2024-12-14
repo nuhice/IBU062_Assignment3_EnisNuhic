@@ -30,3 +30,6 @@ PC4
 
 PC3
 168.90.0.6
+
+Brief explanation of DHCP
+I manage to set up DHCP on my router from its CLI tab, where I used commands enable, config terminal, to configure routers settings. I learned dhcp pool command, interface, I was checking its status with show ip dhcp binding and interface brief. I used two IP addresses for two switches.
